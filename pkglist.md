@@ -37,6 +37,19 @@
 - greetd: https://sr.ht/~kennylevinsen/greetd
 - lemurs: https://github.com/coastalwhite/lemurs
 
+## fetch
+
+- fastfetch: https://github.com/fastfetch-cli/fastfetch
+- zigfetch: https://github.com/utox39/zigfetch
+- bestfetch: https://gitlab.com/Maxb0tbeep/bestfetch
+
+## file
+
+- superfile: https://github.com/yorukot/superfile
+- yazi: https://github.com/sxyazi/yazi
+- rovr: https://github.com/NSPC911/rovr
+- hazelnut: https://github.com/ricardodantas/hazelnut
+
 ## brightness
 
 - clight: https://github.com/FedeDP/Clight
@@ -58,6 +71,10 @@
 - shikane: https://gitlab.com/w0lff/shikane
 - wayout: https://git.sr.ht/~shinyzenith/wayout
 - wlr-randr: https://gitlab.freedesktop.org/emersion/wlr-randr
+
+## email
+
+- aerc: https://git.sr.ht/~rjarry/aerc
 
 ## launcher
 
@@ -82,7 +99,52 @@
 - waylock: https://codeberg.org/ifreund/waylock
 - wlock: https://codeberg.org/sewn/wlock
 
+## music
+
+- termusic: https://github.com/tramhao/termusic
+- mocp: https://github.com/jonsafari/mocp
+
 ## screencast
 
 - wl-mirror: https://github.com/Ferdi265/wl-mirror
 - wl-screenrec: https://github.com/russelltg/wl-screenrec
+
+## screenshot
+
+- grim: https://gitlab.freedesktop.org/emersion/grim
+- slurp: https://github.com/emersion/slurp
+- satty: https://github.com/Satty-org/Satty
+- shotman: https://git.sr.ht/~whynothugo/shotman
+- wayshot: https://github.com/waycrate/wayshot
+- waysip: https://github.com/waycrate/waysip
+
+## session
+
+- wlogout: https://github.com/ArtsyMacaw/wlogout
+- wleave: https://github.com/AMNatty/wleave
+
+## wallpaper
+
+- awww: https://codeberg.org/LGFae/awww
+- hyprpaper: https://github.com/hyprwm/hyprpaper
+- wbg: https://codeberg.org/dnkl/wbg
+- yin: https://github.com/SaverinOnRails/yin
+
+## widgets
+
+- eww: https://github.com/elkowar/eww
+- ewwii: https://github.com/Ewwii-sh/ewwii
+- waybar: https://github.com/Alexays/Waybar
+- quickshell: https://git.outfoxxed.me/quickshell/quickshell
+- ags: https://github.com/aylur/ags
+- i3status-rust: https://github.com/greshake/i3status-rust
+
+## package
+
+- uv: https://github.com/astral-sh/uv
+- zerobrew: https://github.com/lucasgelfond/zerobrew
+
+## tools
+
+- btop: https://github.com/aristocratos/btop
+- croc: https://github.com/schollz/croc
