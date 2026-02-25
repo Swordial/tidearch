@@ -37,6 +37,11 @@
 - greetd: https://sr.ht/~kennylevinsen/greetd
 - lemurs: https://github.com/coastalwhite/lemurs
 
+## color
+
+- hyprpicker: https://github.com/hyprwm/hyprpicker
+- matugen: https://github.com/InioX/matugen
+
 ## fetch
 
 - fastfetch: https://github.com/fastfetch-cli/fastfetch
@@ -85,6 +90,10 @@
 - fuzzel: https://codeberg.org/dnkl/fuzzel
 - walker: https://github.com/abenz1267/walker
 
+## keyboard
+
+- kbt: https://github.com/bloznelis/kbt
+
 ## notification
 
 - dunst: https://github.com/dunst-project/dunst
@@ -103,6 +112,12 @@
 
 - termusic: https://github.com/tramhao/termusic
 - mocp: https://github.com/jonsafari/mocp
+
+## text
+
+- neovim: https://github.com/neovim/neovim
+- ox: https://github.com/curlpipe/ox
+- amp: https://github.com/jmacdonald/amp
 
 ## screencast
 
@@ -148,3 +163,9 @@
 
 - btop: https://github.com/aristocratos/btop
 - croc: https://github.com/schollz/croc
+- bat: https://github.com/sharkdp/bat
+- eza: https://github.com/eza-community/eza
+- chafa: https://github.com/hpjansson/chafa
+- wine: https://gitlab.winehq.org/wine/wine
+
+## 
