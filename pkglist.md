@@ -147,7 +147,7 @@
 - wbg: https://codeberg.org/dnkl/wbg
 - yin: https://github.com/SaverinOnRails/yin
 
-## widgets
+## widget
 
 - eww: https://github.com/elkowar/eww
 - ewwii: https://github.com/Ewwii-sh/ewwii
