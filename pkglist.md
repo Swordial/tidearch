@@ -69,6 +69,7 @@
 - gemclip: https://codeberg.org/novenary/gemclip
 - wayclip: https://sr.ht/~noocsharp/wayclip
 - wl-clipboard: https://github.com/bugaevc/wl-clipboard
+- cclip: https://github.com/heather7283/cclip
 
 ## display
 
@@ -86,6 +87,7 @@
 - rofi: https://github.com/davatorium/rofi
 - tofi: https://github.com/philj56/tofi
 - yofi: https://github.com/l4l/yofi
+- fsel: https://github.com/Mjoyufull/fsel
 - otter-launcher: https://github.com/kuokuo123/otter-launcher
 - fuzzel: https://codeberg.org/dnkl/fuzzel
 - walker: https://github.com/abenz1267/walker
@@ -159,7 +161,7 @@
 - uv: https://github.com/astral-sh/uv
 - zerobrew: https://github.com/lucasgelfond/zerobrew
 
-## tools
+## tool
 
 - btop: https://github.com/aristocratos/btop
 - croc: https://github.com/schollz/croc
@@ -167,5 +169,17 @@
 - eza: https://github.com/eza-community/eza
 - chafa: https://github.com/hpjansson/chafa
 - wine: https://gitlab.winehq.org/wine/wine
+- basalt: https://github.com/erikjuhani/basalt
+- zoxide: https://github.com/ajeetdsouza/zoxide
+- fzf: https://github.com/junegunn/fzf
+- ffmpeg: https://git.ffmpeg.org/ffmpeg.git
+- fd: https://github.com/sharkdp/fd
+- ripgrep: https://github.com/BurntSushi/ripgrep
+- jq: https://github.com/jqlang/jq
+- poppler: https://gitlab.freedesktop.org/poppler/poppler
+- resvg: https://github.com/linebender/resvg
+- imagemagick: https://github.com/ImageMagick/ImageMagick
 
-## 
+## extra
+
+- cava: https://github.com/karlstav/cava
