@@ -96,6 +96,10 @@
 
 - kbt: https://github.com/bloznelis/kbt
 
+## notes
+
+- obsidian: https://github.com/obsidianmd/obsidian-releases
+
 ## notification
 
 - dunst: https://github.com/dunst-project/dunst
