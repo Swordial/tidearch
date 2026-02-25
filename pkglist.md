@@ -95,10 +95,7 @@
 ## keyboard
 
 - kbt: https://github.com/bloznelis/kbt
-
-## notes
-
-- obsidian: https://github.com/obsidianmd/obsidian-releases
+- typtea: https://github.com/ashish0kumar/typtea
 
 ## notification
 
@@ -119,6 +116,10 @@
 - termusic: https://github.com/tramhao/termusic
 - mocp: https://github.com/jonsafari/mocp
 - rmpc: https://github.com/mierak/rmpc
+
+## productivity
+
+- obsidian: https://github.com/obsidianmd/obsidian-releases
 
 ## text
 
@@ -193,3 +194,4 @@
 
 - cava: https://github.com/karlstav/cava
 - endcord: https://github.com/sparklost/endcord
+- gocheat: https://github.com/Achno/gocheat
