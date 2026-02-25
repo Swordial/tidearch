@@ -192,3 +192,4 @@
 ## extra
 
 - cava: https://github.com/karlstav/cava
+- endcord: https://github.com/sparklost/endcord
