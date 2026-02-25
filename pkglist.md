@@ -114,6 +114,7 @@
 
 - termusic: https://github.com/tramhao/termusic
 - mocp: https://github.com/jonsafari/mocp
+- rmpc: https://github.com/mierak/rmpc
 
 ## text
 
@@ -146,6 +147,10 @@
 - hyprpaper: https://github.com/hyprwm/hyprpaper
 - wbg: https://codeberg.org/dnkl/wbg
 - yin: https://github.com/SaverinOnRails/yin
+
+## webcam
+
+- webcamize: https://github.com/cowtoolz/webcamize
 
 ## widget
 
