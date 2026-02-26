@@ -203,3 +203,14 @@
 - cava: https://github.com/karlstav/cava
 - endcord: https://github.com/sparklost/endcord
 - gocheat: https://github.com/Achno/gocheat
+
+## python
+
+- python: https://github.com/python/cpython
+- numpy: https://github.com/numpy/numpy
+- scipy: https://github.com/scipy/scipy
+- sympy: https://github.com/sympy/sympy
+- matplotlib: https://github.com/matplotlib/matplotlib
+- pandas: https://github.com/pandas-dev/pandas
+- seaborn: https://github.com/mwaskom/seaborn
+- rich: https://github.com/Textualize/rich
