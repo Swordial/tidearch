@@ -82,6 +82,14 @@
 
 - aerc: https://git.sr.ht/~rjarry/aerc
 
+## font
+
+- geist-mono: https://github.com/vercel/geist-font
+- martian-mono: https://github.com/evilmartians/mono
+- space-mono: https://github.com/googlefonts/spacemono
+- jetbrains-mono: https://github.com/JetBrains/JetBrainsMono
+- sf-mono: https://github.com/supercomputra/SF-Mono-Font
+
 ## launcher
 
 - rofi: https://github.com/davatorium/rofi
@@ -120,6 +128,7 @@
 ## productivity
 
 - obsidian: https://github.com/obsidianmd/obsidian-releases
+- basalt: https://github.com/erikjuhani/basalt
 
 ## text
 
@@ -179,7 +188,6 @@
 - eza: https://github.com/eza-community/eza
 - chafa: https://github.com/hpjansson/chafa
 - wine: https://gitlab.winehq.org/wine/wine
-- basalt: https://github.com/erikjuhani/basalt
 - zoxide: https://github.com/ajeetdsouza/zoxide
 - fzf: https://github.com/junegunn/fzf
 - ffmpeg: https://git.ffmpeg.org/ffmpeg.git
