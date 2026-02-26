@@ -198,6 +198,7 @@
 - poppler: https://gitlab.freedesktop.org/poppler/poppler
 - resvg: https://github.com/linebender/resvg
 - imagemagick: https://github.com/ImageMagick/ImageMagick
+- chezmoi: https://github.com/twpayne/chezmoi
 
 ## extra
 
