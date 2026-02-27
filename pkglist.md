@@ -183,7 +183,7 @@
 
 ## tool
 
-- btop: https://github.com/aristocratos/btop
+- bottom: https://github.com/ClementTsang/bottom
 - croc: https://github.com/schollz/croc
 - bat: https://github.com/sharkdp/bat
 - eza: https://github.com/eza-community/eza
