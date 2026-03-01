@@ -179,6 +179,7 @@
 ## package
 
 - uv: https://github.com/astral-sh/uv
+- cargo-seek: https://github.com/tareqimbasher/cargo-seek
 - zerobrew: https://github.com/lucasgelfond/zerobrew
 
 ## tool
