@@ -37,6 +37,12 @@
 - greetd: https://sr.ht/~kennylevinsen/greetd
 - lemurs: https://github.com/coastalwhite/lemurs
 
+## audio
+
+- pipewire: https://gitlab.freedesktop.org/pipewire/pipewire
+- pulse: https://gitlab.freedesktop.org/pulseaudio/pulseaudio
+- wireplumber: https://gitlab.freedesktop.org/pipewire/wireplumber
+
 ## color
 
 - hyprpicker: https://github.com/hyprwm/hyprpicker
@@ -141,6 +147,9 @@
 
 - wl-mirror: https://github.com/Ferdi265/wl-mirror
 - wl-screenrec: https://github.com/russelltg/wl-screenrec
+- xdg-desktop-portal: https://github.com/flatpak/xdg-desktop-portal
+- xdg-desktop-portal-wlr: https://github.com/emersion/xdg-desktop-portal-wlr
+- xdg-desktop-portal-hyprland: https://github.com/hyprwm/xdg-desktop-portal-hyprland
 
 ## screenshot
 
