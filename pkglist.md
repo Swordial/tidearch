@@ -237,6 +237,7 @@
 - cava: https://github.com/karlstav/cava
 - cmatrix: https://github.com/abishekvashok/cmatrix
 - cbonsai: https://gitlab.com/jallbrit/cbonsai
+- asciiquarium: https://github.com/cmatsuoka/asciiquarium
 - endcord: https://github.com/sparklost/endcord
 - gocheat: https://github.com/Achno/gocheat
 
