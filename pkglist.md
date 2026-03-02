@@ -166,6 +166,7 @@
 
 - wl-mirror: https://github.com/Ferdi265/wl-mirror
 - wl-screenrec: https://github.com/russelltg/wl-screenrec
+- asciinema: https://github.com/asciinema/asciinema
 - xdg-desktop-portal: https://github.com/flatpak/xdg-desktop-portal
 - xdg-desktop-portal-wlr: https://github.com/emersion/xdg-desktop-portal-wlr
 - xdg-desktop-portal-luminous: https://github.com/waycrate/xdg-desktop-portal-luminous
@@ -234,6 +235,8 @@
 ## extra
 
 - cava: https://github.com/karlstav/cava
+- cmatrix: https://github.com/abishekvashok/cmatrix
+- cbonsai: https://gitlab.com/jallbrit/cbonsai
 - endcord: https://github.com/sparklost/endcord
 - gocheat: https://github.com/Achno/gocheat
 
@@ -247,3 +250,9 @@
 - pandas: https://github.com/pandas-dev/pandas
 - seaborn: https://github.com/mwaskom/seaborn
 - rich: https://github.com/Textualize/rich
+
+## other
+
+- xdg-utils: https://gitlab.freedesktop.org/xdg/xdg-utils
+- xdg-user-dirs: https://gitlab.freedesktop.org/xdg/xdg-user-dirs
+- xorg-xwayland: https://gitlab.freedesktop.org/xorg/xserver
