@@ -219,6 +219,7 @@
 - bat: https://github.com/sharkdp/bat
 - eza: https://github.com/eza-community/eza
 - chafa: https://github.com/hpjansson/chafa
+- jp2a: https://github.com/cslarsen/jp2a
 - wine: https://gitlab.winehq.org/wine/wine
 - zoxide: https://github.com/ajeetdsouza/zoxide
 - fzf: https://github.com/junegunn/fzf
