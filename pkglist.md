@@ -48,6 +48,11 @@
 - hyprpicker: https://github.com/hyprwm/hyprpicker
 - matugen: https://github.com/InioX/matugen
 
+## disks
+
+- caligula: https://github.com/ifd3f/caligula
+- wiper: https://github.com/ikebastuz/wiper
+
 ## fetch
 
 - fastfetch: https://github.com/fastfetch-cli/fastfetch
@@ -60,6 +65,7 @@
 - yazi: https://github.com/sxyazi/yazi
 - rovr: https://github.com/NSPC911/rovr
 - hazelnut: https://github.com/ricardodantas/hazelnut
+- xplr: https://github.com/sayanarijit/xplr
 
 ## brightness
 
@@ -87,6 +93,7 @@
 ## email
 
 - aerc: https://git.sr.ht/~rjarry/aerc
+- alpine: https://github.com/realpine/alpine
 
 ## font
 
@@ -125,6 +132,13 @@
 - hyprlock: https://github.com/hyprwm/hyprlock
 - waylock: https://codeberg.org/ifreund/waylock
 - wlock: https://codeberg.org/sewn/wlock
+
+## multiplexer
+
+- tmux: https://github.com/tmux/tmux
+- zellij: https://github.com/zellij-org/zellij
+- openmux: https://github.com/monotykamary/openmux
+- tuios: https://github.com/Gaurav-Gosain/tuios
 
 ## music
 
