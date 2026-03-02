@@ -160,6 +160,7 @@
 - neovim: https://github.com/neovim/neovim
 - ox: https://github.com/curlpipe/ox
 - amp: https://github.com/jmacdonald/amp
+- kibi: https://github.com/ilai-deutel/kibi
 
 ## screencast
 
