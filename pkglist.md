@@ -209,6 +209,7 @@
 
 - uv: https://github.com/astral-sh/uv
 - cargo-seek: https://github.com/tareqimbasher/cargo-seek
+- homebrew: https://github.com/Homebrew/brew
 - zerobrew: https://github.com/lucasgelfond/zerobrew
 
 ## tool
