@@ -108,7 +108,6 @@
 - space-mono: https://github.com/googlefonts/spacemono
 - jetbrains-mono: https://github.com/JetBrains/JetBrainsMono
 - sf-mono: https://github.com/supercomputra/SF-Mono-Font
-- fira-code: https://github.com/tonsky/FiraCode
 
 ## launcher
 
