@@ -113,12 +113,11 @@
 ## launcher
 
 - rofi: https://github.com/davatorium/rofi
-- tofi: https://github.com/philj56/tofi
 - yofi: https://github.com/l4l/yofi
 - fsel: https://github.com/Mjoyufull/fsel
 - otter-launcher: https://github.com/kuokuo123/otter-launcher
 - fuzzel: https://codeberg.org/dnkl/fuzzel
-- walker: https://github.com/abenz1267/walker
+- mew: https://codeberg.org/sewn/mew
 
 ## keyboard
 
@@ -169,6 +168,7 @@
 - wl-screenrec: https://github.com/russelltg/wl-screenrec
 - xdg-desktop-portal: https://github.com/flatpak/xdg-desktop-portal
 - xdg-desktop-portal-wlr: https://github.com/emersion/xdg-desktop-portal-wlr
+- xdg-desktop-portal-luminous: https://github.com/waycrate/xdg-desktop-portal-luminous
 - xdg-desktop-portal-hyprland: https://github.com/hyprwm/xdg-desktop-portal-hyprland
 
 ## screenshot
