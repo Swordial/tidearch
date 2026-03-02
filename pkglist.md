@@ -53,6 +53,12 @@
 - caligula: https://github.com/ifd3f/caligula
 - wiper: https://github.com/ikebastuz/wiper
 
+## dotfile
+
+- chezmoi: https://github.com/twpayne/chezmoi
+- stow: https://github.com/aspiers/stow
+- yadm: https://github.com/yadm-dev/yadm
+
 ## fetch
 
 - fastfetch: https://github.com/fastfetch-cli/fastfetch
@@ -222,7 +228,6 @@
 - poppler: https://gitlab.freedesktop.org/poppler/poppler
 - resvg: https://github.com/linebender/resvg
 - imagemagick: https://github.com/ImageMagick/ImageMagick
-- chezmoi: https://github.com/twpayne/chezmoi
 
 ## extra
 
