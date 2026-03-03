@@ -37,6 +37,12 @@
 - greetd: https://sr.ht/~kennylevinsen/greetd
 - lemurs: https://github.com/coastalwhite/lemurs
 
+## browser
+
+- helium: https://github.com/imputnet/helium
+- waterfox: https://github.com/BrowserWorks/waterfox
+- lynx: https://github.com/kurtchen/Lynx
+
 ## audio
 
 - pipewire: https://gitlab.freedesktop.org/pipewire/pipewire
