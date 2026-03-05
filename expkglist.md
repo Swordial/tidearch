@@ -17,3 +17,9 @@ aur-helper -S mangowc pacsea-bin helium-browser-bin wiper-bin bestfetch rovr way
 ```
 uv tool install numpy scipy sympy matplotlib pandas seaborn rich
 ```
+
+## brew
+
+```
+brew install starship
+```
