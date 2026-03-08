@@ -113,7 +113,7 @@
 - martian-mono: https://github.com/evilmartians/mono
 - space-mono: https://github.com/googlefonts/spacemono
 - jetbrains-mono: https://github.com/JetBrains/JetBrainsMono
-- sf-pro: https://developer.apple.com/fonts
+- apple-fonts: https://developer.apple.com/fonts
 
 ## launcher
 
