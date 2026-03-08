@@ -264,3 +264,8 @@
 - xdg-utils: https://gitlab.freedesktop.org/xdg/xdg-utils
 - xdg-user-dirs: https://gitlab.freedesktop.org/xdg/xdg-user-dirs
 - xorg-xwayland: https://gitlab.freedesktop.org/xorg/xserver
+
+## driver
+
+- nvidia-open: https://github.com/NVIDIA/open-gpu-kernel-modules
+- vulkan-radeon: https://gitlab.freedesktop.org/mesa/mesa
