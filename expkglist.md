@@ -9,13 +9,13 @@ fish ghostty foot pipewire wireplumber matugen caligula chezmoi wlsunset wlr-ran
 ## aur
 
 ```
-mangowm pacsea-bin helium-browser-bin wiper-bin bestfetch wayclip cclip apple-fonts otter-launcher fsel typtea basalt-bin xdg-desktop-portal-luminous kibi wleave awww-bin webcamize ewwii-bin cargo-seek zerobrew cbonsai-git endcord gocheat-bin
+mangowm-git pacsea-bin helium-browser-bin wiper-bin bestfetch wayclip cclip otter-launcher fsel typtea basalt-bin xdg-desktop-portal-luminous kibi wleave awww-bin webcamize ewwii-bin cargo-seek zerobrew cbonsai-git endcord gocheat-bin
 ```
 
 ## uv
 
 ```
-rovr numpy scipy sympy matplotlib pandas seaborn rich
+rovr numpy matplotlib pandas seaborn rich
 ```
 
 ## brew
