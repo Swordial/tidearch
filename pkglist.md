@@ -155,6 +155,7 @@
 - termusic: https://github.com/tramhao/termusic
 - mocp: https://github.com/jonsafari/mocp
 - rmpc: https://github.com/mierak/rmpc
+- mpd: https://github.com/MusicPlayerDaemon/MPD
 
 ## productivity
 
