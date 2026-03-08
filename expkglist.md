@@ -9,7 +9,7 @@ pacman -S fish ghostty pipewire wireplumber matugen caligula chezmoi wlsunset wl
 ## aur
 
 ```
-aur-helper -S mangowc pacsea-bin helium-browser-bin wiper-bin bestfetch rovr wayclip cclip otf-apple-sf-pro otter-launcher fsel typtea basalt-bin xdg-desktop-portal-luminous kibi-bin wleave yin webcamize ewwii-bin cargo-seek zerobrew cbonsai-git endcord gocheat-bin
+aur-helper -S mangowm pacsea-bin helium-browser-bin wiper-bin bestfetch rovr wayclip cclip otf-apple-sf-pro otter-launcher fsel typtea basalt-bin xdg-desktop-portal-luminous kibi-bin wleave awww-bin webcamize ewwii-bin cargo-seek zerobrew cbonsai-git endcord gocheat-bin
 ```
 
 ## uv
