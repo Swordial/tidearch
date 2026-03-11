@@ -1,0 +1,9 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export EDITOR:ox
+SETUVAR --export VISUAL:ox
+SETUVAR --export XDG_DATA_HOME:/home/aidan/\x2elocal/share
+SETUVAR __fish_initialized:4300
+SETUVAR --export fish_cursor_default:line\x1eblink
+SETUVAR fish_greeting:\x1d
+SETUVAR fish_user_paths:/home/aidan/\x2elocal/bin
