@@ -7,6 +7,10 @@
 - zsh: https://github.com/zsh-users/zsh
 - fish: https://github.com/fish-shell/fish-shell
 
+## plugin
+
+- fisher: https://github.com/jorgebucaran/fisher
+
 ## terminal
 
 - kitty: https://github.com/kovidgoyal/kitty
@@ -14,6 +18,11 @@
 - alacritty: https://github.com/alacritty/alacritty
 - foot: https://codeberg.org/dnkl/foot
 - wezterm: https://github.com/wezterm/wezterm
+
+## prompt
+
+- starship: https://github.com/starship/starship
+- oh-my-posh: https://github.com/JanDeDobbeleer/oh-my-posh
 
 ## compositor
 
