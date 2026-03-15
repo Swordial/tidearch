@@ -246,6 +246,7 @@
 - chafa: https://github.com/hpjansson/chafa
 - jp2a: https://github.com/cslarsen/jp2a
 - wine: https://gitlab.winehq.org/wine/wine
+- branchlet: https://github.com/raghavpillai/branchlet
 - zoxide: https://github.com/ajeetdsouza/zoxide
 - fzf: https://github.com/junegunn/fzf
 - ffmpeg: https://git.ffmpeg.org/ffmpeg.git
@@ -259,9 +260,7 @@
 ## extra
 
 - cava: https://github.com/karlstav/cava
-- cmatrix: https://github.com/abishekvashok/cmatrix
-- cbonsai: https://gitlab.com/jallbrit/cbonsai
-- asciiquarium: https://github.com/cmatsuoka/asciiquarium
+- pastel: https://github.com/sharkdp/pastel
 - endcord: https://github.com/sparklost/endcord
 - gocheat: https://github.com/Achno/gocheat
 
