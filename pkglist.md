@@ -79,6 +79,10 @@
 - hazelnut: https://github.com/ricardodantas/hazelnut
 - xplr: https://github.com/sayanarijit/xplr
 
+## bluetooth
+
+- bluetui: https://github.com/pythops/bluetui
+
 ## brightness
 
 - clight: https://github.com/FedeDP/Clight
@@ -113,7 +117,6 @@
 - martian-mono: https://github.com/evilmartians/mono
 - space-mono: https://github.com/googlefonts/spacemono
 - jetbrains-mono: https://github.com/JetBrains/JetBrainsMono
-- apple-fonts: https://developer.apple.com/fonts
 
 ## launcher
 
@@ -212,6 +215,11 @@
 - quickshell: https://git.outfoxxed.me/quickshell/quickshell
 - ags: https://github.com/aylur/ags
 - i3status-rust: https://github.com/greshake/i3status-rust
+
+## wifi
+
+- impala: https://github.com/pythops/impala
+- wifitui: https://github.com/shazow/wifitui
 
 ## package
 
