@@ -282,6 +282,7 @@
 - xdg-utils: https://gitlab.freedesktop.org/xdg/xdg-utils
 - xdg-user-dirs: https://gitlab.freedesktop.org/xdg/xdg-user-dirs
 - xorg-xwayland: https://gitlab.freedesktop.org/xorg/xserver
+- xdgctl: https://github.com/mitjafelicijan/xdgctl
 
 ## driver
 
