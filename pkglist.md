@@ -107,6 +107,7 @@
 - wayclip: https://sr.ht/~noocsharp/wayclip
 - wl-clipboard: https://github.com/bugaevc/wl-clipboard
 - cclip: https://github.com/heather7283/cclip
+- wl-clip-persist: https://github.com/Linus789/wl-clip-persist
 
 ## display
 
@@ -154,6 +155,7 @@
 - hyprlock: https://github.com/hyprwm/hyprlock
 - waylock: https://codeberg.org/ifreund/waylock
 - wlock: https://codeberg.org/sewn/wlock
+- stasis: https://github.com/saltnpepper97/stasis
 
 ## multiplexer
 
