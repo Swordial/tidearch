@@ -28,7 +28,7 @@
 
 - hyprland: https://github.com/hyprwm/Hyprland
 - niri: https://github.com/niri-wm/niri
-- mangowc: https://github.com/DreamMaoMao/mangowc
+- mangowc: https://github.com/mangowm/mango
 - fht-compositor: https://github.com/nferhat/fht-compositor
 - river: https://codeberg.org/river/river
 - beansprout: https://codeberg.org/bwbuhse/beansprout
