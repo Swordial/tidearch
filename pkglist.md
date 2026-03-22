@@ -62,6 +62,7 @@
 
 - hyprpicker: https://github.com/hyprwm/hyprpicker
 - matugen: https://github.com/InioX/matugen
+- gowall: https://github.com/Achno/gowall
 
 ## disks
 
